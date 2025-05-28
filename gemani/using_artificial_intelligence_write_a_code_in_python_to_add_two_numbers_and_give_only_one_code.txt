@@ -1,0 +1,5 @@
+Gemini response for prompt: using artificial intelligence write a code in python to add two numbers and give only one code
+**************************
+```python
+def add(a, b): return a + b
+```
